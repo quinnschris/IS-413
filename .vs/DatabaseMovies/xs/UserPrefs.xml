@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1860950F-CE97-42C1-ABC0-CF2C337202B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.DatabaseMovies PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseMovies/Models/Movie.cs">
+    <Files>
+      <File FileName="DatabaseMovies/Models/Movie.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatabaseMovies" expanded="True">
+            <Node name="DatabaseMovies" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
